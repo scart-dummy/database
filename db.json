@@ -23,10 +23,12 @@
     },
     "products": [
         {
-            "name": "A"
+            "name": "Shoes",
+            "image":"https://loremflickr.com/320/240/shoes"
         },
         {
-            "name": "B"
+            "name": "Sandals",
+            "image":"https://loremflickr.com/320/240/sandals"
         }
     ],
     "users": [
