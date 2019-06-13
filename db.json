@@ -1,11 +1,46 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "filters": {
+        "colours": [
+            "red",
+            "green",
+            "blue",
+            "orange"
+        ],
+        "discount": {
+            "min": 10,
+            "max": 20
+        },
+        "price": {
+            "min": 1,
+            "max": 100
+        },
+        "brands": [
+            "brandA",
+            "brandB",
+            "brandC",
+            "brandD"
+        ]
+    },
+    "products": [
+        {
+            "name": "A"
+        },
+        {
+            "name": "B"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "amigo",
+            "password": "delta",
+            "fullName": "Mr. Amigo"
+        },
+        {
+            "id": 2,
+            "username": "beta",
+            "password": "abc",
+            "fullName": "Mr. Beta"
+        }
+    ]
 }
